@@ -1,0 +1,2 @@
+# ignore all SQLite databasess
+Db/*.sqlite3
